@@ -25,4 +25,4 @@ No linux: $HOME/.config/Code/User/settings.json
 
 ### TODO: Adicionar todas configurações
 
-[Documentação oficial](https://code.visualstudio.com/docs/getstarted/settings)
+<a href="https://code.visualstudio.com/docs/getstarted/settings" target="_blank">Documentação oficial</a>
