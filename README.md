@@ -1,5 +1,5 @@
 # default-config
-### Configurações padrões dos meus editores de texto e key bindigs utilizados
+### My favorite configurations and key bindings for IDEs
 
 - [Sublime](Sublime/README.md)
 
